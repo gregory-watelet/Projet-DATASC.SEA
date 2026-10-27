@@ -95,11 +95,14 @@ Le budget global estimé dans le rapport se situe entre **40 000 € et 50 000 �
 
 ## 6. Documents du projet
 
-Les livrables seront ajoutés au dépôt après préparation des versions destinées à la consultation publique :
-
-- Rapport final du projet (PDF).
-- Présentation du projet (PDF).
-- Schéma logique de l'architecture cible (PDF et image).
+Les livrables sont accessibles ci-dessous :
+- [Rapport final du projet (PDF)](documents/Rapport-Projet-DATASC-SEA.pdf)
+- [Présentation du projet (PDF)](documents/Presentation-Projet-DATASC-SEA.pdf)
+- [Présentation modifiable (PowerPoint)](documents/Presentation-Projet-DATASC-SEA.pptx)
+- [Schéma d’architecture cible (PDF)](documents/Schema-Architecture-DATASC-SEA.pdf)
+- [Schéma d’architecture — aperçu (PNG)](documents/Schema-Architecture-DATASC-SEA.png)
+- [Schéma d’architecture — version vectorielle (SVG)](documents/Schema-Architecture-DATASC-SEA.svg)
+- [Schéma d’architecture — source modifiable Draw.io](documents/Schema-Architecture-DATASC-SEA.drawio)
 
 ---
 
